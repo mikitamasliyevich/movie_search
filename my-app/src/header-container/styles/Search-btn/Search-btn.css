@@ -1,0 +1,10 @@
+.btn {
+  height: 50px;
+  margin-top: 155px;
+  margin-left: 10px;
+  color: black;
+  cursor: pointer;
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-family: 'Anton', sans-serif;
+}

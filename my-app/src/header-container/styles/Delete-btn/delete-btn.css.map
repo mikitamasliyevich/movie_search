@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACZ,QAAQ,EAAE,QAAQ;EAGnB,UAAU,EAAE,KAAK;EACjB,WAAW,EAAE,MAAM;EACnB,OAAO,EAAE,IAAI;CAYb;;AAlBD,AAQC,aARY,CAQZ,WAAW,CAAC;EACX,MAAM,EAAE,OAAO;EACf,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,gCAAgC;EAClD,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,IAAI;CAErB",
+    "sources": [
+        "delete-btn.scss"
+    ],
+    "names": [],
+    "file": "delete-btn.css"
+}

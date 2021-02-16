@@ -1,0 +1,27 @@
+@import "~bootstrap/scss/bootstrap";
+
+.btn {
+	height: 50px;
+	margin-left: 10px;
+	color: black;
+	cursor: pointer;
+	letter-spacing: 2px;
+	font-size: 20px;
+	font-family: 'Anton', sans-serif;
+}
+
+
+@media only screen and (max-width: 500px) {
+	btn{
+				height: 40px;
+				font-size: 14px;
+			}
+}
+
+
+@media only screen and (max-width: 400px) {
+	btn{
+				height: 30px;
+				font-size: 12px;
+			}
+}

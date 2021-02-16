@@ -1,0 +1,10 @@
+.header-title {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-top: 5px;
+	background: radial-gradient(circle, orange, red, white);
+	background-size: 300% 300%;
+	box-shadow: 1px 2px white;
+	border-bottom: 3px solid black;
+}
